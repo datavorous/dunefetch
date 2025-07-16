@@ -2,6 +2,15 @@
 
 neofetch + falling sand engine for your terminal 
 
+![Preview](https://raw.githubusercontent.com/datavorous/datavorous/refs/heads/main/3j044t.png)
+
+
+[**Video Demo**](https://www.youtube.com/watch?v=tfzAKLan-mQ)
+
+
+Future improvements will focus on customizability.
+
+
 # Install 
 
 Make sure to have [Python](https://www.python.org/downloads/) installed.
