@@ -23,7 +23,7 @@ cd dunefetch-main
 cd dunefetch-main
 python -m venv .venv
 source .venv/bin/activate
-pip install .
+pip install ..
 dunefetch
 ```
 
