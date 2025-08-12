@@ -19,8 +19,7 @@ Recommended Terminal Emulator: [kitty](https://sw.kovidgoyal.net/kitty/binary/)
 
 ```
 git clone https://github.com/datavorous/dunefetch
-cd dunefetch-main
-cd dunefetch-main
+cd dunefetch
 python -m venv .venv
 source .venv/bin/activate
 pip install .
