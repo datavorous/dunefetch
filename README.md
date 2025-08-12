@@ -22,7 +22,7 @@ git clone https://github.com/datavorous/dunefetch
 cd dunefetch
 python -m venv .venv
 source .venv/bin/activate
-pip install .
+pip install ..
 dunefetch
 ```
 
